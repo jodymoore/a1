@@ -1,0 +1,21 @@
+    <style type="text/css">
+  
+		#pic {
+			display: block;
+		    margin-left: auto;
+		    margin-right: auto;
+		}
+		#div1 h2{
+		  text-align: center;
+		}
+		#div1 h1{
+		  text-align: center;
+		}
+		#div1 blockquote{
+		  text-align: center;
+		}
+		#div1 p{
+              margin: 0 0 10.5px;
+		}
+
+	   </style>
