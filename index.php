@@ -1,10 +1,6 @@
 <html>
   <head>
-
 	  <title>Jody Moore</title>
-	  <meta charset="utf-8">
-
-	  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	  <link rel="stylesheet" href="" type="text/css">
 	  <link href="" rel="stylesheet">
@@ -46,7 +42,7 @@
 		  </p>
 		  <h2>Random Quote</h2>
 		  <blockquote>
-		  	Do what you feel in your heart to be right, for you’ll be criticized anyway. -Eleanor Roosevelt		</blockquote>
+		  	Anyone who has never made a mistake has never tried anything new.-Albert Einstein		</blockquote>
 	</div>
 
 	  <script src=""></script>
