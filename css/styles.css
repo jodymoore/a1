@@ -1,21 +1,30 @@
-    <style type="text/css">
-  
-		#pic {
-			display: block;
-		    margin-left: auto;
-		    margin-right: auto;
-		}
-		#div1 h2{
-		  text-align: center;
-		}
-		#div1 h1{
-		  text-align: center;
-		}
-		#div1 blockquote{
-		  text-align: center;
-		}
-		#div1 p{
-              margin: 0 0 10.5px;
-		}
+  /**
+ * styles.css
+ *
+ * a1.jodymoore.net
+ *
+ * Global CSS.
+ */
+#div1 img {			
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 
-	   </style>
+#div1 h2 {
+  text-align: center;
+}
+
+#div1 h1 {
+  text-align: center;
+}
+
+#div1 blockquote {
+  text-align: center;
+}
+
+#div1 p {
+  display: inline-block;
+  margin: 20px 293px 20px 293px;
+}
+
