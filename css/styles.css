@@ -26,5 +26,11 @@
 #div1 p {
   display: inline-block;
   margin: 20px 293px 20px 293px;
+  font-size: 14px;
+  font-weight: 500;
 }
 
+blockquote h4 {
+	font-style: italic;
+	font-weight: 450;
+}
