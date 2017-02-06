@@ -3,29 +3,26 @@
 
 <html>
   <head>
-      <title>Jody Moore</title>
+    <title>Jody Moore</title>
 	  <link href="/css/bootstrap.min.css" rel="stylesheet"/>
-      <link href="/css/bootstrap-theme.min.css" rel="stylesheet"/>
-      <link href="/css/styles.css" rel="stylesheet"/>
+    <link href="/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <link href="/css/styles.css" rel="stylesheet"/>
 
 	  <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script> 
-      <script src="/js/jquery-1.10.2.min.js"></script>
-      <script src="/js/bootstrap.min.js"></script>
-      <script src="/js/scripts.js"></script>
+    <script src="/js/jquery-1.10.2.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/scripts.js"></script>
   </head>
   <body>
     <div id="div1"> 
 		  <h1>Jody Moore</h1>
-
 		  <img src="img/myPic3.jpg" alt="Jody Moore">
-
 		  <h2>About Me</h2>
-		  <h5><p>			
-          My name is Jody Moore.  In the past three years I've discovered my interest in programming. I have just completed a <br>programming certificate from Harvard Extension School and have recently received my Amazon Web Services Solutions <br>Architect-Associate Certification.  This course will help improve my PHP, Laravel, and CSS skills. I look forward to working <br>on an E-commerce style site.
-		  </p></h5>
+        <p>			
+          My name is Jody Moore.  In the past three years I've discovered my interest in programming. I have just completed a programming certificate from Harvard Extension School and have recently received my Amazon Web Services Solutions Architect-Associate Certification.  This course will help improve my PHP, Laravel, and CSS skills. I look forward to working on an E-commerce style site.
+        <p>
 		  <h2>Random Quote</h2>
-		  <blockquote>
-		  	<h4><?php echo $RandomQoute; ?></h4></blockquote>
-	</div>
+		  <blockquote><h4><?php echo $RandomQoute; ?></h4></blockquote>
+	  </div>
   </body>
 </html>
